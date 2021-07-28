@@ -1,4 +1,4 @@
-<p float="left">
+<p float="middle">
 <img align="middle" src="https://img.shields.io/github/contributors/corruptmemry/readme-example.svg?style=for-the-badge"/>
 <img align="middle" src="https://img.shields.io/github/forks/corruptmemry/readme-example.svg?style=for-the-badge"/>
 <img align="middle" src="https://img.shields.io/github/stars/corruptmemry/readme-example.svg?style=for-the-badge"/>
