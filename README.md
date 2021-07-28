@@ -1,5 +1,5 @@
 <br />
 <p align="center">
-  <h1>⚡ Readme Example </h1>
+  ⚡ Readme Example 
   </p>
 <br />
